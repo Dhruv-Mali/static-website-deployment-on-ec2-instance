@@ -37,3 +37,7 @@ Deploying a static website on an AWS EC2 instance involves several steps. Here's
    - Consider setting up regular backups of your website and EC2 instance to prevent data loss.
 
 Remember that these are general steps, and the exact commands and configurations can vary depending on the specific Linux distribution you're using, the web server software, and other factors. Always refer to AWS and the documentation of the software you're using for the most up-to-date instructions.
+
+
+
+this is my project to deploy static websites http://54.163.16.26/
